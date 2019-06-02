@@ -4,8 +4,6 @@ date: 2019-06-02T19:39:47-03:00
 draft: true
 draft: false
 image: ""
-tags: [""]
-categories: [""]
 ---
 
 Escaneie o QR Code ao lado com o seu telefone para inserir todos os meus dados de contato em sua agenda.

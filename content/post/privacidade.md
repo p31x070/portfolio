@@ -3,8 +3,6 @@ title: "(IN)seguro"
 date: 2019-06-01T16:35:59-03:00
 draft: false
 image: "cone.jpg"
-tags: [""]
-categories: [""]
 ---
 
 Você deve estar se perguntando o porquê de um site com um nome tão complicato ou o porquê este site só abre no Tor.
