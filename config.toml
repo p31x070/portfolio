@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Iniciar"
-  url = "/tags/Iniciar"
+  url = "/tags/iniciar"
   weight = 100
 
 [[menu.main]]
