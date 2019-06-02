@@ -46,12 +46,12 @@ paginate        = 6
 
 [[menu.main]]
   name = "Iniciar"
-  url = "/tags/iniciar"
+  url = "/tags/Iniciar"
   weight = 100
 
 [[menu.main]]
-  name = "Consulta"
-  url = "/categories/consulta/"
+  name = "Food"
+  url = "/categories/food/"
   weight = 99
 
 [[menu.main]]
