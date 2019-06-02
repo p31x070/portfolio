@@ -1,4 +1,4 @@
-baseurl         = "https://s7q3tq6xh6oc5rdf3nt7socgnab53l7cjiwnepx7ju37girszotcp3yd.onion/"
+baseurl         = ""
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
