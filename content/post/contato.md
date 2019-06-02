@@ -12,4 +12,4 @@ Escaneie o QR Code ao lado com o seu telefone para inserir todos os meus dados d
 
 Para sistema IOS, apenas abra a câmera e posicione o a figura no centro.
 
-Para Android baixe o aplicativo leitor de códigos [BarCode Scanner] https://play.google.com/store/apps/details?id=com.google.zxing.client.android
+Para Android baixe o aplicativo leitor de códigos [BarCode Scanner] (https://play.google.com/store/apps/details?id=com.google.zxing.client.android "BarCode Scanner")
