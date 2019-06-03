@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "Luiz Peixoto"
-  subtitle    = ""
+  subtitle    = "Direito com Privacidade"
 
   cover       = "bookcase.jpg"
   description = "Ferramentas para Iniciar o Trabalho"
@@ -21,8 +21,8 @@ paginate        = 6
   githubName = "eueung"
 
   logo = ""
-  orgName = "LP"
-  orgWebsite = "https://www.luizpeixoto.com"
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
 
   author = "Luiz Peixoto"
@@ -45,13 +45,13 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Ações"
-  url = "/tags/Iação"
+  name = "Iniciar"
+  url = "/tags/Iniciar"
   weight = 100
 
 [[menu.main]]
-  name = "Notícias"
-  url = "/categories/noticias/"
+  name = "Food"
+  url = "/categories/food/"
   weight = 99
 
 [[menu.main]]
